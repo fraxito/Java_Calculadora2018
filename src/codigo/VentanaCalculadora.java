@@ -11,6 +11,10 @@ package codigo;
  */
 public class VentanaCalculadora extends javax.swing.JFrame {
 
+    double operando1 = 0;   //primer operando
+    
+    String operacion = "";
+    
     /**
      * Creates new form VentanaCalculadora
      */
